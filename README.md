@@ -1,0 +1,2 @@
+# genomic-nursing-education-intervention
+This research has the potential for clinical application in alignment with the ISONG’s conference theme “Building Connections to Genomic Health”. The outcome of this research can be utilized globally for educating undergraduate nursing students. The web-based intervention can be included in the nursing curriculum and/ or course syllabus of different countries. Preparing future nurses in genetic-genomic competencies is the first step for clinical application.
